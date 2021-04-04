@@ -1,3 +1,4 @@
+
 function Get-HelloWorld {
     <#
     .SYNOPSIS
@@ -24,5 +25,3 @@ function Get-HelloWorld {
     Throw "Exercise not implemented"
 }
 
-
-Get-HelloWorld -person 'Bob'
